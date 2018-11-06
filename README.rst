@@ -14,7 +14,7 @@ Due to it's low price and high accessibility, the pi was scooped up by a large n
 https://opensource.com/resources/raspberry-pi
 
 Here are some examples of what these tinkerers and hobbyists have done with the raspberry pi: 
---
+---------------------------------------------------------------------------------------------
 Terren Peterson from FreeCodeCamp.org used the first raspberry pi to light a red LED when it detected intruders near his daughter's minecraft castle. Then the second one he used to record humidity, temperature and soil moisture for his indoor garden.
 
 https://medium.freecodecamp.org/raspberry-pi-just-turned-5-d4210cc29230
