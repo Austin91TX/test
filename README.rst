@@ -31,6 +31,8 @@ Here are 10 projects created with the raspberry pi 3 -
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 https://www.youtube.com/watch?v=9YhTOUu06EY
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 (Transcript) - https://geekslife.com/12-raspberrypiprojects/
 
 10) Raspberry Pi Connect 4 Robot
