@@ -14,7 +14,7 @@ Due to it's low price and high accessibility, the pi was scooped up by a large n
 https://opensource.com/resources/raspberry-pi
 
 Here are some examples of what these tinkerers and hobbyists have done with the raspberry pi: 
-
+--
 Terren Peterson from FreeCodeCamp.org used the first raspberry pi to light a red LED when it detected intruders near his daughter's minecraft castle. Then the second one he used to record humidity, temperature and soil moisture for his indoor garden.
 
 https://medium.freecodecamp.org/raspberry-pi-just-turned-5-d4210cc29230
@@ -26,11 +26,9 @@ On Oct 29th 2018, the Astro Pi Mission Zero launched.
 https://www.raspberrypi.org/blog/mission-zero-2018-19/#comments
 
 
-This video shows 10 raspberry pi 3 projects
+This video shows 10 raspberry pi 3 projects - https://www.youtube.com/watch?v=9YhTOUu06EY
 
-https://www.youtube.com/watch?v=9YhTOUu06EY
-
-https://geekslife.com/12-raspberrypiprojects/
+(Transcript) - https://geekslife.com/12-raspberrypiprojects/
 
 10) Raspberry Pi Connect 4 Robot
 Do you remember the Connect 4 game? I loved that when I was kid! Well, now you can play against a Rasberry Pi! This comes from Pi and Chips.co.uk. He used the Pi, along with a MeArm kit and some other pieces and servos to create a very worthwhile opponent! He may be a little slower than you and I, but you can’t rush brilliance!
