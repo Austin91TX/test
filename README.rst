@@ -1,4 +1,4 @@
-Board History #
+Board History
 ###################
 
 When the first coders learned how to code they started from the ground up. They werent taking classes to learn how to code, they were teaching themselves how to code. Now that the world has a million types of computers in varying shapes and sizes, there arent that many people teaching themselves how to code from scratch. The raspberry pi was created to reignite a want to learn how to code by starting at a very basic and simple level. 
@@ -19,14 +19,12 @@ Terren Peterson from FreeCodeCamp.org used the first raspberry pi to light a red
 
 https://medium.freecodecamp.org/raspberry-pi-just-turned-5-d4210cc29230
 
-###################
 
 On Oct 29th 2018, the Astro Pi Mission Zero launched. 
 	Students and young people will have until 20 March 2019 to from teams and write a simple program to display their personal message to the astronauts onboard. The Mission Zero activity can be completed in a couple of hours with just a computer and an internet connection. You don’t need any special equipment or prior coding skills, and all participants that follow the guidelines are guaranteed to have their programs run in space.
 
 https://www.raspberrypi.org/blog/mission-zero-2018-19/#comments
 
-###################
 
 This video shows 10 raspberry pi 3 projects
 

@@ -2,6 +2,7 @@ Board History #
 ###################
 
 When the first coders learned how to code they started from the ground up. They werent taking classes to learn how to code, they were teaching themselves how to code. Now that the world has a million types of computers in varying shapes and sizes, there arent that many people teaching themselves how to code from scratch. The raspberry pi was created to reignite a want to learn how to code by starting at a very basic and simple level. 
+
 https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
 
 ###################
@@ -10,18 +11,19 @@ The Raspberry Pi was created for the purpose of Education. It was first used to 
 
 Due to it's low price and high accessibility, the pi was scooped up by a large number of tinkerers and hobbyists 
 
-Here are some examples of what these tinkerers and hobbyists have done with the raspberry pi: 
 https://opensource.com/resources/raspberry-pi
 
-###################
+Here are some examples of what these tinkerers and hobbyists have done with the raspberry pi: 
 
 Terren Peterson from FreeCodeCamp.org used the first raspberry pi to light a red LED when it detected intruders near his daughter's minecraft castle. Then the second one he used to record humidity, temperature and soil moisture for his indoor garden.
+
 https://medium.freecodecamp.org/raspberry-pi-just-turned-5-d4210cc29230
 
 ###################
 
 On Oct 29th 2018, the Astro Pi Mission Zero launched. 
 	Students and young people will have until 20 March 2019 to from teams and write a simple program to display their personal message to the astronauts onboard. The Mission Zero activity can be completed in a couple of hours with just a computer and an internet connection. You don’t need any special equipment or prior coding skills, and all participants that follow the guidelines are guaranteed to have their programs run in space.
+
 https://www.raspberrypi.org/blog/mission-zero-2018-19/#comments
 
 ###################
@@ -29,6 +31,7 @@ https://www.raspberrypi.org/blog/mission-zero-2018-19/#comments
 This video shows 10 raspberry pi 3 projects
 
 https://www.youtube.com/watch?v=9YhTOUu06EY
+
 https://geekslife.com/12-raspberrypiprojects/
 
 10) Raspberry Pi Connect 4 Robot
