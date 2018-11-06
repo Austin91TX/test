@@ -15,13 +15,14 @@ Due to it's low price and high accessibility, the pi was scooped up by a large n
 
 Here are some examples of what these tinkerers and hobbyists have done with the raspberry pi: 
 ---------------------------------------------------------------------------------------------
-Terren Peterson from FreeCodeCamp.org used the first raspberry pi to light a red LED when it detected intruders near his daughter's minecraft castle. Then the second one he used to record humidity, temperature and soil moisture for his indoor garden.
+Terren Peterson from FreeCodeCamp.org
+        used the first raspberry pi to light a red LED when it detected intruders near his daughter's minecraft castle. Then the second one he used to record humidity, temperature and soil moisture for his indoor garden.
 
         https://medium.freecodecamp.org/raspberry-pi-just-turned-5-d4210cc29230
 
 
 On Oct 29th 2018, the Astro Pi Mission Zero launched. 
-Students and young people will have until 20 March 2019 to from teams and write a simple program to display their personal message to the astronauts onboard. The Mission Zero activity can be completed in a couple of hours with just a computer and an internet connection. You don’t need any special equipment or prior coding skills, and all participants that follow the guidelines are guaranteed to have their programs run in space.
+        Students and young people will have until 20 March 2019 to from teams and write a simple program to display their personal message to the astronauts onboard. The Mission Zero activity can be completed in a couple of hours with just a computer and an internet connection. You don’t need any special equipment or prior coding skills, and all participants that follow the guidelines are guaranteed to have their programs run in space.
 
         https://www.raspberrypi.org/blog/mission-zero-2018-19/#comments
 
